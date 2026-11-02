@@ -2,4 +2,4 @@ uv.lock
 pyproject.toml
 .venv
 .pytest_cache
-__pycache
+__pycache__
